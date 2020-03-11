@@ -1,0 +1,2 @@
+# configgMacOs
+Computer configuration
